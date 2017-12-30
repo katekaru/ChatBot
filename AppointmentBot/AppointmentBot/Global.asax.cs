@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using AppointmentBot.Helpers;
+using AutoMapper;
 using System.Web.Http;
-using System.Web.Routing;
 
 namespace AppointmentBot
 {
@@ -12,6 +9,18 @@ namespace AppointmentBot
         protected void Application_Start()
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
+            ////Configure Automapper
+            //AutoMapperConfiguration.Configure();
+        }
+        public class AutoMapperConfiguration
+        {
+            public static void Configure()
+            {
+                Mapper.Initialize(x =>
+                {
+                    x.AddProfile<MappingProfile>();
+                });
+            }
         }
     }
 }

@@ -42,3 +42,60 @@ C:\Users\katekaru\documents\visual studio 2017\Projects\AppointmentBot\Appointme
 C:\Users\katekaru\documents\visual studio 2017\Projects\AppointmentBot\AppointmentBot\obj\Debug\Bot Application.pdb
 C:\Users\katekaru\documents\visual studio 2017\Projects\AppointmentBot\AppointmentBot\bin\Microsoft.Cognitive.LUIS.dll
 C:\Users\katekaru\documents\visual studio 2017\Projects\AppointmentBot\AppointmentBot\obj\Debug\AppointmentBot.csprojResolveAssemblyReference.cache
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Bot Application.dll.config
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Bot Application.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Bot Application.pdb
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\ApiAiSDK.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\AppointmentBot.Provider.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Autofac.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\AutoMapper.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Chronic.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.Cognitive.LUIS.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Newtonsoft.Json.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Net.Http.Formatting.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Web.Http.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Web.Http.WebHost.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Firebase.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Reactive.Linq.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Reactive.Core.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Reactive.Interfaces.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\AppointmentBot.Provider.pdb
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\AppointmentBot.Provider.dll.config
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Autofac.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\AutoMapper.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\Newtonsoft.Json.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Net.Http.Formatting.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Web.Http.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Web.Http.WebHost.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Reactive.Linq.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Reactive.Core.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\System.Reactive.Interfaces.xml
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\obj\Debug\AppointmentBot.csprojResolveAssemblyReference.cache
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\obj\Debug\Bot Application.dll
+C:\Users\katekaru\Documents\ChatBot\AppointmentBot\AppointmentBot\obj\Debug\Bot Application.pdb

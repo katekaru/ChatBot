@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
+using AppointmentBot.Dialogs;
 
 namespace AppointmentBot
 {
@@ -16,33 +17,26 @@ namespace AppointmentBot
         /// </summary>
         public async Task<HttpResponseMessage> Post([FromBody]Activity activity)
         {
+            //queryRequest.set
             var client = new ConnectorClient(new System.Uri(activity.ServiceUrl), new MicrosoftAppCredentials());
             var reply = activity.CreateReply();
+
             if (activity.Type == ActivityTypes.Message)
             {
-                if (activity.Text.Equals("Yes"))
-                {                   
-                    reply.Text = $"Please Enter Year";
-                    client.Conversations.ReplyToActivityAsync(reply);
-                   // await Conversation.SendAsync(activity, () => new Dialogs.RootDialog());
-                }
+                await Conversation.SendAsync(activity, () => new RootDialog());
             }
             else if (activity.Type == ActivityTypes.ConversationUpdate)
             {
-                // Handle conversation state changes, like members being added and removed
-                // Use Activity.MembersAdded and Activity.MembersRemoved and Activity.Action for info
-                // Not available in all channels
-
-                // Note: Add introduction here:
                 IConversationUpdateActivity update = activity;
-               
+
                 if (update.MembersAdded != null && update.MembersAdded.Count > 0)
                 {
                     foreach (var newMember in update.MembersAdded)
                     {
                         if (newMember.Id != activity.Recipient.Id)
                         {
-                            reply.Text = $"Welcome {newMember.Name}! Would you like to book an appointment?";
+                            reply.Text = $"Welcome {newMember.Name}! How may I help you?";
+
                             client.Conversations.ReplyToActivityAsync(reply);
                         }
                     }
@@ -52,8 +46,8 @@ namespace AppointmentBot
             {
                 HandleSystemMessage(activity);
             }
-            var response = Request.CreateResponse(HttpStatusCode.OK);
-            return response;
+            var response1 = Request.CreateResponse(HttpStatusCode.OK);
+            return response1;
         }
 
         private Activity HandleSystemMessage(Activity message)
